@@ -1,2 +1,2 @@
 Hello, git!
-I love git!
+I hate git!
